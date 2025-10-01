@@ -12,5 +12,6 @@ services:
           property: connectionString
 
 databases:
-  - name: couples-db
+  - name: couples_db_m3bc
     plan: free
+
